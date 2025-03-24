@@ -17,6 +17,13 @@ project-repositories:
       - "boot-3.2.x"
       - "restdocs"
       - "web"
+  - name: "ingest"
+    description: "Hello, World RESTful web service."
+    url: "https://github.com/redisgeek/redis-recipes-spring-boot-data-ingestion"
+    tags:
+      - "java-21"
+      - "boot-3.3.x"
+      - "redis"
   - name: "web"
     description: "Hello, World RESTful web service."
     url: "https://github.com/dashaun-project-catalog/rest-service"
