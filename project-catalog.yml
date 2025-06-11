@@ -62,7 +62,7 @@ project-repositories:
       - "java-21"
       - "boot-3.2.x"
       - "graphql"
-  - name: "modulith"
+  - name: "modulith-simple"
     description: "Spring Moduliths"
     url: "https://github.com/dashaun-project-catalog/modulith-simple"
     tags:
