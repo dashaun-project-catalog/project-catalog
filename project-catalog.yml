@@ -66,8 +66,8 @@ project-repositories:
     description: "Spring Moduliths"
     url: "https://github.com/dashaun-project-catalog/modulith-simple"
     tags:
-      - "java-21"
-      - "boot-3.2.x"
+      - "java-17"
+      - "boot-3.5.x"
       - "modulith"
   - name: "llama2-chat"
     description: "Chat with llama2 model via Ollama"
