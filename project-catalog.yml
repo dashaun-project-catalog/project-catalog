@@ -13,8 +13,8 @@ project-repositories:
     description: "Document RESTful services using Spring REST Docs."
     url: "https://github.com/dashaun-project-catalog/simple-restdocs"
     tags:
-      - "java-21"
-      - "boot-3.2.x"
+      - "java-17"
+      - "boot-3.5.x"
       - "restdocs"
       - "web"
   - name: "ingest"
