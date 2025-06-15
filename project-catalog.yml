@@ -24,7 +24,7 @@ project-repositories:
       - "java-21"
       - "boot-3.3.x"
       - "redis"
-  - name: "web"
+  - name: "rest"
     description: "Hello, World RESTful web service."
     url: "https://github.com/dashaun-project-catalog/rest-service"
     tags:
